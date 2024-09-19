@@ -1,0 +1,13 @@
+---
+title: "Project 1 EDA"
+author: "Diahmin Hawkins dlh2166@columbia.edu"
+date: "9/19/2024"
+output: html_document
+---
+
+```{r}
+library(readr)
+marathon_dates <- read_csv("Downloads/Project 1/marathon_dates.csv")
+
+
+```
